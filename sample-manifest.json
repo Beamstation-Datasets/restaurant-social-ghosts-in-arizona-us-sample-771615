@@ -1,0 +1,12 @@
+{
+  "export_job_id": "def6f08a-8dc8-41ab-93c7-46f380312257",
+  "id_short": 771615,
+  "published_at": "2026-04-14T19:24:38Z",
+  "repo_name": "restaurant-social-ghosts-in-arizona-us-sample-771615",
+  "sample_asset_name": "beamstation_771615_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/771615/beamstation_771615_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "008c6a6615148e1d2c80909a9971fbe1e279eb871a8a026b8e2c2422137cf44b",
+  "sample_size_bytes": 51550,
+  "total_records": 103
+}
