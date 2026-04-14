@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Arizona, US",
+  "export_job_id": "def6f08a-8dc8-41ab-93c7-46f380312257",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 771615,
+  "location_name": "Arizona",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-arizona-us-sample-771615",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/771615/beamstation_771615_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.71,
+  "sample_records": 10,
+  "sample_sha256": "008c6a6615148e1d2c80909a9971fbe1e279eb871a8a026b8e2c2422137cf44b",
+  "sample_size_bytes": 51550,
+  "total_records": 103,
+  "updated_at": "2026-04-08T07:36:28.258742+00:00"
+}
