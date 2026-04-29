@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Arizona, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `771615` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 14 records |
-| Free sample size | 1 records (7.14%) |
-| Last export | 2026-04-22T18:58:25.787270+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-29T18:10:30.152616+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-arizona-us-sample-771615/releases/download/sample-latest/beamstation_771615_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
